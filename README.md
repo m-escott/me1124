@@ -8,7 +8,7 @@
 - Source code documentation: javadoc\index.html
 
 **Running the main application**
-Using Java, run **ToolRentalApplication.main()** to execute a single use case (*see src\main\java\com\toolrental\application\ToolRentalApplication.java)
+Using Java, run **ToolRentalApplication.main()** to execute a single use case (*see src\main\java\com\toolrental\application\ToolRentalApplication.java*)
 
 **Runing the unit test suite**
 Run the JUnit tests in src\test\java\com\tests\ToolRentalApplicationTests.java
