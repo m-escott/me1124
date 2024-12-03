@@ -3,7 +3,7 @@
 
 **Document structure**
 - System architecture document: see **ToolRentalArchitecture.pdf** in the root folder
-- Java source code for Tool Rental Application: src\main\java\com\toolrental
+- Java source code: src\main\java\com\toolrental
 - Unit test code: src\test\java\com\tests
 - Source code documentation: javadoc\index.html
 
