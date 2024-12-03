@@ -1,5 +1,5 @@
 # me1124
-**Tool Rental Application**
+## **Tool Rental Application**
 
 **Document structure**
 - System architecture document: see **ToolRentalArchitecture.pdf** in the root folder
