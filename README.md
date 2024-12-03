@@ -11,7 +11,7 @@
 Using Java, run **ToolRentalApplication.main()** to execute a single use case (*see src\main\java\com\toolrental\application\ToolRentalApplication.java*)
 
 **Runing the unit test suite**
-Run the rntire suite JUnit tests from src\test\java\com\toolrental\tests
+Run the entire suite JUnit tests from src\test\java\com\toolrental\tests
 
 
 
