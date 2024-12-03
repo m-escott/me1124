@@ -4,7 +4,7 @@
 **Document structure**
 - System architecture document: see **ToolRentalArchitecture.pdf** in the root directory
 - Java source code: src\main\java\com\toolrental
-- Unit test code: src\test\java\com\tests
+- Unit test code: src\test\java\com\toolrental\tests
 - Source code API documentation: javadoc\index.html
 
 **Running the main application**
