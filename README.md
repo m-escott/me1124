@@ -2,16 +2,16 @@
 **Tool Rental Application**
 
 **Document structure**
-- System architecture document: see **TechnicalAssessmentArchitecture.pdf** in the root folder
+- System architecture document: see **ToolRentalArchitecture.pdf** in the root folder
 - Java source code for Tool Rental Application: src\main\java\com\toolrental
 - Unit test code: src\test\java\com\tests
 - Source code documentation: javadoc\index.html
 
 **Running the main application**
-Using Java, run **ToolRentalApplication.main()** to execute a single use case (*see src\main\java\com\toolrental\application\ToolRentalApplication.java*)
+Using Java, run **ToolRentalApplication.main()** to execute a single use case (*see src\main\java\com\toolrental\application\***ToolRentalApplication.java***)
 
 **Runing the unit test suite**
-Run the JUnit tests in src\test\java\com\tests\ToolRentalApplicationTests.java
+Run the JUnit tests in src\test\java\com\tests\***ToolRentalApplicationTests.java***
 
 
 
